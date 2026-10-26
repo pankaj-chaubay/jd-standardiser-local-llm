@@ -1,0 +1,94 @@
+[
+  {
+    "file":"jd_01.txt",
+    "job_title":"SENIOR HR DATA ANALYST (m\/f\/d) - Munich, hybrid",
+    "job_family":"HR Analytics",
+    "level":"Senior",
+    "location":"Munich",
+    "work_model":"Hybrid",
+    "posting_language":"English",
+    "min_years_experience":4,
+    "responsibilities":[
+
+    ],
+    "requirements":[
+
+    ],
+    "languages_required":[
+      "German",
+      "English"
+    ],
+    "personal_data_removed":3,
+    "validation":"ok",
+    "human_review":"pending"
+  },
+  {
+    "file":"jd_02.txt",
+    "job_title":"Payroll Specialist",
+    "job_family":"Payroll",
+    "level":"Professional",
+    "location":"Hamburg",
+    "work_model":"Not stated",
+    "posting_language":"English",
+    "min_years_experience":3,
+    "responsibilities":[
+
+    ],
+    "requirements":[
+
+    ],
+    "languages_required":[
+      "German",
+      "English"
+    ],
+    "personal_data_removed":1,
+    "validation":"ok",
+    "human_review":"pending"
+  },
+  {
+    "file":"jd_03.txt",
+    "job_title":"Wir suchen eine\/n HR Business Partner (m\/w\/d) in Berlin.",
+    "job_family":"HR Business Partnering",
+    "level":"Senior",
+    "location":"Berlin",
+    "work_model":"Not stated",
+    "posting_language":"German",
+    "min_years_experience":5,
+    "responsibilities":[
+
+    ],
+    "requirements":[
+
+    ],
+    "languages_required":[
+      "German",
+      "English"
+    ],
+    "personal_data_removed":2,
+    "validation":"ok",
+    "human_review":"pending"
+  },
+  {
+    "file":"jd_04.txt",
+    "job_title":"Talent Acquisition Partner - Tech (remote, Germany)",
+    "job_family":"Talent Acquisition",
+    "level":"Professional",
+    "location":"Germany",
+    "work_model":"Remote",
+    "posting_language":"English",
+    "min_years_experience":2,
+    "responsibilities":[
+
+    ],
+    "requirements":[
+
+    ],
+    "languages_required":[
+      "German",
+      "English"
+    ],
+    "personal_data_removed":0,
+    "validation":"ok",
+    "human_review":"pending"
+  }
+]
